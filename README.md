@@ -19,6 +19,8 @@
   <img align="center" alt="will-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="will-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+<br>
+<h3>🤝 contact me:</h3>
 
 <a href="mailto:leticianunesq8@gmail.com">
   <img src="https://img.shields.io/badge/leticianunesq8@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;" style="max-width:100%;">
