@@ -1,10 +1,10 @@
-# Olá, seja bem vinde 😁
+# Olá, seja bem vinde! 😁
 
-- 🐱‍💻 
-- 🐱‍💻 
-- 🐱‍💻 
-- 🐱‍💻 
-- 🧍🏽‍♂
+  
+- 🐱‍💻 Possuo conhecimentos em HTML, CSS, JavaScript 
+- 📚 Iniciando estudos em React e NodeJS
+- 🌈 Pronome: ela/dela 
+- ⚡️ Amo dirigir; praticar esportes; estar em contato com a natureza e ouvir música
 
 
 <div align="center">
