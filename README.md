@@ -1,8 +1,8 @@
-# Olá, seja bem vinde! 😁
+# Olá, me chamo Letícia. <br>seja muito bem-vinde! 😁
 
   
 - 🐱‍💻 Possuo conhecimentos em HTML, CSS, JavaScript 
-- 📚 Iniciando estudos em React e NodeJS
+- 📚 Atualmente estou aprendendo e trabalhando com React e NodeJS
 - 🌈 Pronome: ela/dela 
 - ⚡️ Amo dirigir; praticar esportes; estar em contato com a natureza e ouvir música
 
