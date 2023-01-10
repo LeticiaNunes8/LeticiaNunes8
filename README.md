@@ -1,9 +1,9 @@
 # Olá, me chamo Letícia. <br>seja muito bem-vinde! 😁
 
   
-- 🐱‍💻 Possuo conhecimentos em HTML, CSS, JavaScript, C
+- 🐱‍💻 Possuo conhecimentos em Java, SpringBoot, JavaScript, C
 - 📚 Atualmente estou aprendendo React, NodeJS, Bootstrap
-- 🌈 Pronome: ela/dela 
+- 🌈 Pronome: ela/dela
 - ⚡️ Amo dirigir; praticar esportes; estar em contato com a natureza e ouvir música
 
 
